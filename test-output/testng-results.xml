@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-11T23:20:31 IST" name="Default suite" finished-at="2024-03-11T23:21:58 IST" duration-ms="86645">
+    <groups>
+    </groups>
+    <test started-at="2024-03-11T23:20:31 IST" name="Default test" finished-at="2024-03-11T23:21:58 IST" duration-ms="86645">
+      <class name="TestCases.TendableTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.TendableTestCases@5a56cdac]" started-at="2024-03-11T23:20:31 IST" name="setUp" finished-at="2024-03-11T23:20:51 IST" duration-ms="19556" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="accessibility_of_the_Our_Story_menus()[pri:1, instance:TestCases.TendableTestCases@5a56cdac]" started-at="2024-03-11T23:20:51 IST" name="accessibility_of_the_Our_Story_menus" finished-at="2024-03-11T23:21:07 IST" duration-ms="15922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessibility_of_the_Our_Story_menus -->
+        <test-method signature="accessibility_of_the_Our_Solution_menus()[pri:2, instance:TestCases.TendableTestCases@5a56cdac]" started-at="2024-03-11T23:21:07 IST" name="accessibility_of_the_Our_Solution_menus" finished-at="2024-03-11T23:21:19 IST" duration-ms="12588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessibility_of_the_Our_Solution_menus -->
+        <test-method signature="accessibility_of_the_Why_Tendable_menus()[pri:3, instance:TestCases.TendableTestCases@5a56cdac]" started-at="2024-03-11T23:21:19 IST" name="accessibility_of_the_Why_Tendable_menus" finished-at="2024-03-11T23:21:24 IST" duration-ms="5041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessibility_of_the_Why_Tendable_menus -->
+        <test-method signature="accessibility_of_the_Home_menu()[pri:4, instance:TestCases.TendableTestCases@5a56cdac]" started-at="2024-03-11T23:21:24 IST" name="accessibility_of_the_Home_menu" finished-at="2024-03-11T23:21:29 IST" duration-ms="4180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accessibility_of_the_Home_menu -->
+        <test-method signature="contactUs()[pri:5, instance:TestCases.TendableTestCases@5a56cdac]" started-at="2024-03-11T23:21:29 IST" name="contactUs" finished-at="2024-03-11T23:21:58 IST" duration-ms="29213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+      </class> <!-- TestCases.TendableTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
